@@ -12,3 +12,31 @@ img,
 video {
   display: block;
 }
+
+.week {
+  color: rgba(0, 0, 0, 0.6);
+  font-family: "Open Sans";
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 104.348% */
+}
+
+.orange {
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  border-radius: 20px;
+  background: #ff844c;
+}
+
+.numbers {
+  color: #000000;
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 68.571% */
+  text-transform: uppercase;
+}
